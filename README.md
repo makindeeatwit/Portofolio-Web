@@ -11,7 +11,7 @@ This is a simple interactive portfolio built with Streamlit. It showcases my ski
 
 ## Technologies Used
 
-- Python 3.8+
+- Python 
 - Streamlit
 
 ##  Getting Started
