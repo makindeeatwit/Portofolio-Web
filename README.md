@@ -2,7 +2,7 @@
 
 This is a simple interactive portfolio built with Streamlit. It showcases my skills, education, and projects as part of my final assignment.
 
-## 🛠 Features
+## Features
 
 - Sections for About Me, Skills, Education, and Projects
 - Professional layout using Streamlit
@@ -14,7 +14,7 @@ This is a simple interactive portfolio built with Streamlit. It showcases my ski
 - Python 3.8+
 - Streamlit
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 
 1. Clone the repository
